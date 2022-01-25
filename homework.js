@@ -25,7 +25,7 @@ function firstNonConsecutive(arr){
 }
 
 //Call function here with arguments
-console.log(firstNonConsecutive([1, 2, 3, 4, 5, 6, 7])) // Should log out 3
+console.log(firstNonConsecutive([1, 2, 3, 5, 6, 7])) // Should log out 3
 
 
 
